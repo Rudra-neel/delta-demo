@@ -4,4 +4,4 @@ This is a demo repo for git and github.
 Shradha Khapra
 
 # Student
-Rudraneel Majumdar
+Rudraneel Majumdar.
